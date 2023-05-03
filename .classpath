@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-io-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/jakarta.activation-2.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/jakarta.xml.bind-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/log4j-api-2.18.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/mysql-connector-java-8.0.30.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-examples-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-excelant-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-javadoc-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-ooxml-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-ooxml-full-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-ooxml-lite-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/poi-scratchpad-5.2.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Uche/eclipse-workspace/bank/jars/xmlbeans-5.1.1.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
