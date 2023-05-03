@@ -27,6 +27,7 @@ The manager can:
 - Generate report on customer activities in a defined period (Apache POI was used order to generate the report).
 
 Installation guide:
+
 SQL:
 - Please export the sql table using your SQL App
 
@@ -37,8 +38,11 @@ Running the APP:
 
 The app can start from the Start.java class and all be followed step by step to create an account and successfuly login,
 while for the administrators, you can check for login details in database.
+
 For Client, the user type is 1
+
 For Front Desk officer, the user type is 2
+
 For Manager, the user type is 3
 
 Feel free to leave a message for any questions...
