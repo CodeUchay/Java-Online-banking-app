@@ -3,11 +3,13 @@
 
 DESCRIPTION OF THE PROJECT
 The following are the actors that will use the tool:
-• Client
-• Front office advisers
-• Managers
+
+- Client
+- Front office advisers
+- Managers
 
 The client can:
+
 • Create their account(s)
 • View and modify each personal information on their account profile
 • View the balance and transaction history of their accounts
